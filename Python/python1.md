@@ -5,7 +5,7 @@ Homebrew는 macOS에서 패키지 설치를 쉽게 도와주는 툴입니다.
 
 터미널을 열고 아래 명령어로 Homebrew를 설치합니다:
 
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+\\\/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     
 
 3. Python 설치
